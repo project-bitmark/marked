@@ -8,7 +8,7 @@ Based on [Jumble](https://github.com/CodyTseng/jumble) by [@CodyTseng](https://g
 
 ```bash
 # Clone this repository
-git clone https://github.com/project-bitmark/social.git
+git clone https://github.com/project-bitmark/marked.git
 
 # Go into the repository
 cd social
@@ -24,7 +24,7 @@ npm run dev
 
 ```bash
 # Clone this repository
-git clone https://github.com/project-bitmark/social.git
+git clone https://github.com/project-bitmark/marked.git
 
 # Go into the repository
 cd social
