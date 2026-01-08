@@ -95,7 +95,7 @@ export default {
     'Add an Account': 'افزودن حساب',
     'More options': 'گزینه‌های بیشتر',
     'Add client tag': 'افزودن برچسب کلاینت',
-    'Show others this was sent via Jumble': 'به دیگران نشان دهید که از طریق Jumble ارسال شده',
+    'Show others this was sent via Marked': 'به دیگران نشان دهید که از طریق Jumble ارسال شده',
     'Are you sure you want to logout?': 'آیا مطمئن هستید که می‌خواهید خارج شوید؟',
     'relay sets': 'مجموعه‌های رله',
     edit: 'ویرایش',
@@ -197,8 +197,8 @@ export default {
     All: 'همه',
     Reactions: 'واکنش‌ها',
     Zaps: 'زپ‌ها',
-    'Enjoying Jumble?': 'از Jumble لذت می‌برید؟',
-    'Your donation helps me maintain Jumble and make it better! 😊':
+    'Enjoying Marked?': 'از Jumble لذت می‌برید؟',
+    'Your donation helps me support Marked and make it better! 😊':
       'کمک مالی شما به من در نگهداری Jumble و بهتر کردن آن کمک می‌کند! 😊',
     'Earlier notifications': 'اعلان‌های قبلی',
     'Temporarily display this note': 'نمایش موقت این یادداشت',
@@ -492,8 +492,8 @@ export default {
     Remote: 'از راه دور',
     'Encrypted Key': 'رمزگذاری شده کلید',
     'Private Key': 'کلید خصوصی',
-    'Welcome to Jumble': 'به Jumble خوش آمدید',
-    'Jumble is a client focused on browsing relays. Get started by exploring interesting relays or login to view your following feed.':
+    'Welcome to Marked': 'به Jumble خوش آمدید',
+    'Marked is a Bitmark social client focused on browsing relays. Get started by exploring interesting relays or login to view your following feed.':
       'Jumble یک کلاینت متمرکز بر مرور رله‌هاست. با کاوش در رله‌های جالب شروع کنید یا وارد شوید تا فید دنبال‌کننده‌های خود را مشاهده کنید.',
     'Explore Relays': 'کاوش در رله‌ها',
     'Choose a feed': 'یک فید انتخاب کنید',
@@ -596,7 +596,7 @@ export default {
     'Publish Highlight': 'انتشار برجسته‌سازی',
     'Show replies': 'نمایش پاسخ‌ها',
     'Hide replies': 'پنهان کردن پاسخ‌ها',
-    'Welcome to Jumble!': 'به Jumble خوش آمدید!',
+    'Welcome to Marked!': 'به Jumble خوش آمدید!',
     'Your feed is empty because you are not following anyone yet. Start by exploring interesting content and following users you like!':
       'فید شما خالی است زیرا هنوز کسی را دنبال نمی‌کنید. با کاوش محتوای جالب و دنبال کردن کاربرانی که دوست دارید شروع کنید!',
     'Search Users': 'جستجوی کاربران',

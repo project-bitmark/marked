@@ -95,7 +95,7 @@ export default {
     'Add an Account': 'Dodaj Konto',
     'More options': 'Więcej opcji',
     'Add client tag': 'Dodaj tag klienta',
-    'Show others this was sent via Jumble': 'Pokaż innym, że zostało to wysłane przez Jumble',
+    'Show others this was sent via Marked': 'Pokaż innym, że zostało to wysłane przez Jumble',
     'Are you sure you want to logout?': 'Czy na pewno chcesz się wylogować?',
     'relay sets': 'Zestawy transmiterów',
     edit: 'edytuj',
@@ -195,8 +195,8 @@ export default {
     All: 'Wszystkie',
     Reactions: 'Odzewy',
     Zaps: 'Zapy',
-    'Enjoying Jumble?': 'Podoba ci się Jumble?',
-    'Your donation helps me maintain Jumble and make it better! 😊':
+    'Enjoying Marked?': 'Podoba ci się Jumble?',
+    'Your donation helps me support Marked and make it better! 😊':
       'Twoja darowizna pomoże mi utrzymać i ulepszać Jumble! 😊',
     'Earlier notifications': 'Wcześniejsze powiadomienia',
 
@@ -497,8 +497,8 @@ export default {
     Remote: 'Zdalne',
     'Encrypted Key': 'Zaszyfrowany Klucz',
     'Private Key': 'Zaszyfrowany Klucz',
-    'Welcome to Jumble': 'Witamy w Jumble',
-    'Jumble is a client focused on browsing relays. Get started by exploring interesting relays or login to view your following feed.':
+    'Welcome to Marked': 'Witamy w Jumble',
+    'Marked is a Bitmark social client focused on browsing relays. Get started by exploring interesting relays or login to view your following feed.':
       'Jumble to klient skupiający się na przeglądaniu transmiterów. Rozpocznij od odkrycia interesujących transmiterów lub zaloguj się, aby wyświetlić wpisy  obserwowanych użytkowników.',
     'Explore Relays': 'Przeglądaj transmitery',
     'Choose a feed': 'Wybierz transmitery',
@@ -603,7 +603,7 @@ export default {
     'Publish Highlight': 'Opublikuj wyróżnienie',
     'Show replies': 'Pokaż odpowiedzi',
     'Hide replies': 'Ukryj odpowiedzi',
-    'Welcome to Jumble!': 'Witamy w Jumble!',
+    'Welcome to Marked!': 'Witamy w Jumble!',
     'Your feed is empty because you are not following anyone yet. Start by exploring interesting content and following users you like!':
       'Twój kanał jest pusty, ponieważ jeszcze nikogo nie obserwujesz. Zacznij od odkrywania ciekawych treści i obserwowania użytkowników, którzy Ci się podobają!',
     'Search Users': 'Szukaj użytkowników',

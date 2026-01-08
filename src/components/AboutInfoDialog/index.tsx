@@ -11,26 +11,30 @@ export default function AboutInfoDialog({ children }: { children: React.ReactNod
 
   const content = (
     <>
-      <div className="text-xl font-semibold">Jumble</div>
-      <div className="text-muted-foreground">
-        A user-friendly Nostr client for exploring relay feeds
-      </div>
+      <div className="text-xl font-semibold">Marked</div>
+      <div className="text-muted-foreground">Bitmark social client - mark users and content</div>
       <div>
-        Made by <Username userId={CODY_PUBKEY} className="inline-block text-primary" showAt />
-      </div>
-      <div>
-        Source code:{' '}
+        Based on{' '}
         <a
           href="https://github.com/CodyTseng/jumble"
           target="_blank"
           rel="noreferrer"
           className="text-primary hover:underline"
         >
+          Jumble
+        </a>{' '}
+        by <Username userId={CODY_PUBKEY} className="inline-block text-primary" showAt />
+      </div>
+      <div>
+        Source code:{' '}
+        <a
+          href="https://github.com/project-bitmark/social"
+          target="_blank"
+          rel="noreferrer"
+          className="text-primary hover:underline"
+        >
           GitHub
         </a>
-        <div className="text-sm text-muted-foreground">
-          If you like Jumble, please consider giving it a star ⭐
-        </div>
       </div>
     </>
   )

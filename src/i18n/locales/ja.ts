@@ -96,7 +96,7 @@ export default {
     'Add an Account': 'アカウントを追加',
     'More options': 'その他のオプション',
     'Add client tag': 'クライアントタグを追加',
-    'Show others this was sent via Jumble': 'これがJumble経由で送信されたことを表示',
+    'Show others this was sent via Marked': 'これがJumble経由で送信されたことを表示',
     'Are you sure you want to logout?': '本当にログアウトしますか？',
     'relay sets': 'リレイセット',
     edit: '編集',
@@ -197,8 +197,8 @@ export default {
     All: 'すべて',
     Reactions: '反応',
     Zaps: 'Zap',
-    'Enjoying Jumble?': 'Jumbleをお楽しみですか？',
-    'Your donation helps me maintain Jumble and make it better! 😊':
+    'Enjoying Marked?': 'Jumbleをお楽しみですか？',
+    'Your donation helps me support Marked and make it better! 😊':
       'あなたの寄付はJumbleの維持と改善に役立ちます！ 😊',
     'Earlier notifications': '以前の通知',
     'Temporarily display this note': 'このノートを一時的に表示',
@@ -493,8 +493,8 @@ export default {
     Remote: 'リモート',
     'Encrypted Key': '暗号化キー',
     'Private Key': '暗号化されたキー',
-    'Welcome to Jumble': 'Jumbleへようこそ',
-    'Jumble is a client focused on browsing relays. Get started by exploring interesting relays or login to view your following feed.':
+    'Welcome to Marked': 'Jumbleへようこそ',
+    'Marked is a Bitmark social client focused on browsing relays. Get started by exploring interesting relays or login to view your following feed.':
       'Jumbleはリレーを閲覧することに焦点を当てたクライアントです。興味深いリレーを探索するか、ログインしてフォロー中のフィードを表示してください。',
     'Explore Relays': 'リレーを探索',
     'Choose a feed': 'フィードを選択',
@@ -597,7 +597,7 @@ export default {
     'Publish Highlight': 'ハイライトを公開',
     'Show replies': '返信を表示',
     'Hide replies': '返信を非表示',
-    'Welcome to Jumble!': 'Jumbleへようこそ！',
+    'Welcome to Marked!': 'Jumbleへようこそ！',
     'Your feed is empty because you are not following anyone yet. Start by exploring interesting content and following users you like!':
       'まだ誰もフォローしていないため、フィードが空です。興味深いコンテンツを探索して、好きなユーザーをフォローしてみましょう！',
     'Search Users': 'ユーザーを検索',

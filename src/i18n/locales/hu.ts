@@ -95,7 +95,7 @@ export default {
     'Add an Account': 'Profil hozzáadása',
     'More options': 'További lehetőségek',
     'Add client tag': 'Kliens jelölése',
-    'Show others this was sent via Jumble': 'Mutasd meg másoknak, hogy Jumble-lel küldted',
+    'Show others this was sent via Marked': 'Mutasd meg másoknak, hogy Jumble-lel küldted',
     'Are you sure you want to logout?': 'Biztosan ki akarsz lépni?',
     'relay sets': 'csomópont listák',
     edit: 'szerkesztés',
@@ -197,8 +197,8 @@ export default {
     All: 'Minden',
     Reactions: 'Reakciók',
     Zaps: 'Zap-ok',
-    'Enjoying Jumble?': 'Tetszik a Jumble?',
-    'Your donation helps me maintain Jumble and make it better! 😊':
+    'Enjoying Marked?': 'Tetszik a Jumble?',
+    'Your donation helps me support Marked and make it better! 😊':
       'Az adományok segítenek a Jumble fenntartásában és továbbfejlesztésében! 😊',
     'Earlier notifications': 'Korábbi értesítések',
     'Temporarily display this note': 'Poszt ideiglenes megmutatása',
@@ -491,8 +491,8 @@ export default {
     Remote: 'Távoli',
     'Encrypted Key': 'Jelszóval védett titkos Kulcs',
     'Private Key': 'Titkos Kulcs',
-    'Welcome to Jumble': 'Isten hozott',
-    'Jumble is a client focused on browsing relays. Get started by exploring interesting relays or login to view your following feed.':
+    'Welcome to Marked': 'Isten hozott',
+    'Marked is a Bitmark social client focused on browsing relays. Get started by exploring interesting relays or login to view your following feed.':
       'Jumble egy kliens, amivel könnyen böngészhetsz csomópontokat. Kezdd az érdekes csomópontok felderítésével, vagy lépj be, hogy a követettek posztjait megnézd.',
     'Explore Relays': 'Csomópontok felderítése',
     'Choose a feed': 'Válassz hírfolyamot',
@@ -591,7 +591,7 @@ export default {
     'Publish Highlight': 'Kiemelés Közzététele',
     'Show replies': 'Válaszok megjelenítése',
     'Hide replies': 'Válaszok elrejtése',
-    'Welcome to Jumble!': 'Üdvözlünk a Jumble-ban!',
+    'Welcome to Marked!': 'Üdvözlünk a Jumble-ban!',
     'Your feed is empty because you are not following anyone yet. Start by exploring interesting content and following users you like!':
       'A hírcsatornád üres, mert még nem követsz senkit. Kezdd el érdekes tartalmak felfedezésével és kövesd azokat a felhasználókat, akik tetszenek!',
     'Search Users': 'Felhasználók keresése',

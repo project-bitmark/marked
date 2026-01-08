@@ -95,7 +95,7 @@ export default {
     'Add an Account': 'Nova conta',
     'More options': 'Mais opções',
     'Add client tag': 'Adicionar tag de cliente',
-    'Show others this was sent via Jumble': 'Mostrar aos outros que isso foi enviado via Jumble',
+    'Show others this was sent via Marked': 'Mostrar aos outros que isso foi enviado via Marked',
     'Are you sure you want to logout?': 'Tem certeza de que deseja sair?',
     'relay sets': 'Conjuntos de relay',
     edit: 'Editar',
@@ -198,8 +198,8 @@ export default {
     All: 'Tudo',
     Reactions: 'Reações',
     Zaps: 'Zaps',
-    'Enjoying Jumble?': 'Gostando do Jumble?',
-    'Your donation helps me maintain Jumble and make it better! 😊':
+    'Enjoying Marked?': 'Gostando do Jumble?',
+    'Your donation helps me support Marked and make it better! 😊':
       'Sua doação me ajuda a manter o Jumble e torná-lo melhor! 😊',
     'Earlier notifications': 'Notificações anteriores',
     'Temporarily display this note': 'Exibir esta nota temporariamente',
@@ -495,8 +495,8 @@ export default {
     Remote: 'Remoto',
     'Encrypted Key': 'Chave Criptografada',
     'Private Key': 'Chave Privada',
-    'Welcome to Jumble': 'Bem-vindo ao Jumble',
-    'Jumble is a client focused on browsing relays. Get started by exploring interesting relays or login to view your following feed.':
+    'Welcome to Marked': 'Bem-vindo ao Jumble',
+    'Marked is a Bitmark social client focused on browsing relays. Get started by exploring interesting relays or login to view your following feed.':
       'Jumble é um cliente focado em navegar relays. Comece explorando relays interessantes ou faça login para ver o conteúdo das pessoas que você segue.',
     'Explore Relays': 'Explorar Relays',
     'Choose a feed': 'Escolha um feed',
@@ -599,7 +599,7 @@ export default {
     'Publish Highlight': 'Publicar Destaque',
     'Show replies': 'Mostrar respostas',
     'Hide replies': 'Ocultar respostas',
-    'Welcome to Jumble!': 'Bem-vindo ao Jumble!',
+    'Welcome to Marked!': 'Bem-vindo ao Jumble!',
     'Your feed is empty because you are not following anyone yet. Start by exploring interesting content and following users you like!':
       'Seu feed está vazio porque você ainda não está seguindo ninguém. Comece explorando conteúdo interessante e seguindo usuários que você gosta!',
     'Search Users': 'Buscar Usuários',

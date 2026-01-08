@@ -95,7 +95,7 @@ export default {
     'Add an Account': 'إضافة حساب',
     'More options': 'المزيد من الخيارات',
     'Add client tag': 'إضافة وسم العميل',
-    'Show others this was sent via Jumble': 'عرض أن هذه الرسالة أُرسلت عبر Jumble',
+    'Show others this was sent via Marked': 'عرض أن هذه الرسالة أُرسلت عبر Jumble',
     'Are you sure you want to logout?': 'هل أنت متأكد أنك تريد تسجيل الخروج؟',
     'relay sets': 'مجموعات الريلاي',
     edit: 'تعديل',
@@ -195,8 +195,8 @@ export default {
     All: 'الكل',
     Reactions: 'التفاعلات',
     Zaps: 'Zaps',
-    'Enjoying Jumble?': 'هل تستمتع بـ Jumble؟',
-    'Your donation helps me maintain Jumble and make it better! 😊':
+    'Enjoying Marked?': 'هل تستمتع بـ Jumble؟',
+    'Your donation helps me support Marked and make it better! 😊':
       'تبرعك يساعد في صيانة Jumble وتحسينه! 😊',
     'Earlier notifications': 'الإشعارات السابقة',
     'Temporarily display this note': 'عرض هذه الملاحظة مؤقتاً',
@@ -489,8 +489,8 @@ export default {
     Remote: 'عن بُعد',
     'Encrypted Key': 'مفتاح مشفر',
     'Private Key': 'مفتاح خاص',
-    'Welcome to Jumble': 'مرحبًا بك في Jumble',
-    'Jumble is a client focused on browsing relays. Get started by exploring interesting relays or login to view your following feed.':
+    'Welcome to Marked': 'مرحبًا بك في Jumble',
+    'Marked is a Bitmark social client focused on browsing relays. Get started by exploring interesting relays or login to view your following feed.':
       'Jumble هو عميل يركز على تصفح المرحلات. ابدأ باستكشاف المرحلات المثيرة للاهتمام أو قم بتسجيل الدخول لعرض خلاصتك.',
     'Explore Relays': 'استكشف المرحلات',
     'Choose a feed': 'اختر خلاصة',
@@ -590,7 +590,7 @@ export default {
     'Publish Highlight': 'نشر التمييز',
     'Show replies': 'إظهار الردود',
     'Hide replies': 'إخفاء الردود',
-    'Welcome to Jumble!': 'مرحبًا بك في Jumble!',
+    'Welcome to Marked!': 'مرحبًا بك في Jumble!',
     'Your feed is empty because you are not following anyone yet. Start by exploring interesting content and following users you like!':
       'خلاصتك فارغة لأنك لا تتابع أي شخص بعد. ابدأ باستكشاف محتوى مثير للاهتمام ومتابعة المستخدمين الذين تحبهم!',
     'Search Users': 'البحث عن المستخدمين',

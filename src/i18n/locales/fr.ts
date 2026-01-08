@@ -96,7 +96,7 @@ export default {
     'Add an Account': 'Ajouter un compte',
     'More options': "Plus d'options",
     'Add client tag': 'Ajouter une étiquette client',
-    'Show others this was sent via Jumble': 'Montrer aux autres que cela a été envoyé via Jumble',
+    'Show others this was sent via Marked': 'Montrer aux autres que cela a été envoyé via Marked',
     'Are you sure you want to logout?': 'Êtes-vous sûr de vouloir vous déconnecter ?',
     'relay sets': 'groupes de relais',
     edit: 'modifier',
@@ -198,8 +198,8 @@ export default {
     All: 'Tous',
     Reactions: 'Réactions',
     Zaps: 'Zaps',
-    'Enjoying Jumble?': 'Vous appréciez Jumble ?',
-    'Your donation helps me maintain Jumble and make it better! 😊':
+    'Enjoying Marked?': 'Vous appréciez Jumble ?',
+    'Your donation helps me support Marked and make it better! 😊':
       "Votre don m'aide à maintenir Jumble et à l'améliorer ! 😊",
     'Earlier notifications': 'Notifications antérieures',
     'Temporarily display this note': 'Afficher temporairement cette note',
@@ -502,8 +502,8 @@ export default {
     Remote: 'Distant',
     'Encrypted Key': 'Clé chiffrée',
     'Private Key': 'Clé privée',
-    'Welcome to Jumble': 'Bienvenue sur Jumble',
-    'Jumble is a client focused on browsing relays. Get started by exploring interesting relays or login to view your following feed.':
+    'Welcome to Marked': 'Bienvenue sur Jumble',
+    'Marked is a Bitmark social client focused on browsing relays. Get started by exploring interesting relays or login to view your following feed.':
       "Jumble est un client axé sur la navigation des relais. Commencez par explorer des relais intéressants ou connectez-vous pour voir votre fil d'abonnements.",
     'Explore Relays': 'Explorer les relais',
     'Choose a feed': 'Choisir un fil',
@@ -605,7 +605,7 @@ export default {
     'Publish Highlight': 'Publier le Surlignage',
     'Show replies': 'Afficher les réponses',
     'Hide replies': 'Masquer les réponses',
-    'Welcome to Jumble!': 'Bienvenue sur Jumble !',
+    'Welcome to Marked!': 'Bienvenue sur Jumble !',
     'Your feed is empty because you are not following anyone yet. Start by exploring interesting content and following users you like!':
       'Votre flux est vide car vous ne suivez personne pour le moment. Commencez par explorer du contenu intéressant et suivez les utilisateurs que vous aimez !',
     'Search Users': 'Rechercher des utilisateurs',

@@ -1,5 +1,6 @@
 import { kinds } from 'nostr-tools'
 
+// Using Jumble API for now - can be replaced with Marked API later
 export const JUMBLE_API_BASE_URL = 'https://api.jumble.social'
 
 export const RECOMMENDED_BLOSSOM_SERVERS = [

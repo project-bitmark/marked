@@ -96,7 +96,7 @@ export default {
     'Add an Account': 'Добавить аккаунт',
     'More options': 'Больше опций',
     'Add client tag': 'Добавить тег клиента',
-    'Show others this was sent via Jumble':
+    'Show others this was sent via Marked':
       'Показать другим, что сообщение отправлено через Jumble',
     'Are you sure you want to logout?': 'Вы уверены, что хотите выйти?',
     'relay sets': 'наборы ретрансляторов',
@@ -200,8 +200,8 @@ export default {
     All: 'Все',
     Reactions: 'Реакции',
     Zaps: 'Запы',
-    'Enjoying Jumble?': 'Нравится Jumble?',
-    'Your donation helps me maintain Jumble and make it better! 😊':
+    'Enjoying Marked?': 'Нравится Jumble?',
+    'Your donation helps me support Marked and make it better! 😊':
       'Ваше пожертвование помогает поддерживать и улучшать Jumble! 😊',
     'Earlier notifications': 'Ранние уведомления',
     'Temporarily display this note': 'Временно отобразить эту заметку',
@@ -499,8 +499,8 @@ export default {
     Remote: 'Удалённый',
     'Encrypted Key': 'Зашифрованный ключ',
     'Private Key': 'Приватный ключ',
-    'Welcome to Jumble': 'Добро пожаловать в Jumble',
-    'Jumble is a client focused on browsing relays. Get started by exploring interesting relays or login to view your following feed.':
+    'Welcome to Marked': 'Добро пожаловать в Jumble',
+    'Marked is a Bitmark social client focused on browsing relays. Get started by exploring interesting relays or login to view your following feed.':
       'Jumble — это клиент, ориентированный на просмотр relay. Начните с изучения интересных relay или войдите, чтобы увидеть ленту подписок.',
     'Explore Relays': 'Исследовать Relay',
     'Choose a feed': 'Выберите ленту',
@@ -602,7 +602,7 @@ export default {
     'Publish Highlight': 'Опубликовать Выделение',
     'Show replies': 'Показать ответы',
     'Hide replies': 'Скрыть ответы',
-    'Welcome to Jumble!': 'Добро пожаловать в Jumble!',
+    'Welcome to Marked!': 'Добро пожаловать в Jumble!',
     'Your feed is empty because you are not following anyone yet. Start by exploring interesting content and following users you like!':
       'Ваша лента пуста, потому что вы еще ни на кого не подписаны. Начните с изучения интересного контента и подписки на понравившихся пользователей!',
     'Search Users': 'Поиск пользователей',

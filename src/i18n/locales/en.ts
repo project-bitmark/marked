@@ -95,7 +95,7 @@ export default {
     'Add an Account': 'Add an Account',
     'More options': 'More options',
     'Add client tag': 'Add client tag',
-    'Show others this was sent via Jumble': 'Show others this was sent via Jumble',
+    'Show others this was sent via Marked': 'Show others this was sent via Marked',
     'Are you sure you want to logout?': 'Are you sure you want to logout?',
     'relay sets': 'relay sets',
     edit: 'edit',
@@ -196,9 +196,9 @@ export default {
     All: 'All',
     Reactions: 'Reactions',
     Zaps: 'Zaps',
-    'Enjoying Jumble?': 'Enjoying Jumble?',
-    'Your donation helps me maintain Jumble and make it better! 😊':
-      'Your donation helps me maintain Jumble and make it better! 😊',
+    'Enjoying Marked?': 'Enjoying Marked?',
+    'Your donation helps me support Marked and make it better! 😊':
+      'Your donation helps support Marked development! 😊',
     'Earlier notifications': 'Earlier notifications',
     'Temporarily display this note': 'Temporarily display this note',
     buttonFollowing: 'Following',
@@ -489,14 +489,14 @@ export default {
     Remote: 'Remote',
     'Encrypted Key': 'Encrypted Key',
     'Private Key': 'Private Key',
-    'Welcome to Jumble': 'Welcome to Jumble',
-    'Jumble is a client focused on browsing relays. Get started by exploring interesting relays or login to view your following feed.':
-      'Jumble is a client focused on browsing relays. Get started by exploring interesting relays or login to view your following feed.',
+    'Welcome to Marked': 'Welcome to Marked',
+    'Marked is a Bitmark social client focused on browsing relays. Get started by exploring interesting relays or login to view your following feed.':
+      'Marked is a Bitmark social client. Get started by exploring interesting relays or login to view your following feed.',
     'Explore Relays': 'Explore Relays',
     'Choose a feed': 'Choose a feed',
     'and {{x}} others': 'and {{x}} others',
     selfZapWarning:
-      'Jumble is not responsible for what happens if you zap yourself. Proceed at your own risk. 😉⚡',
+      'Marked is not responsible for what happens if you zap yourself. Proceed at your own risk. 😉⚡',
     'Emoji Pack': 'Emoji Pack',
     'Emoji pack added': 'Emoji pack added',
     'Add emoji pack failed': 'Add emoji pack failed',
@@ -593,7 +593,7 @@ export default {
     'Publish Highlight': 'Publish Highlight',
     'Show replies': 'Show replies',
     'Hide replies': 'Hide replies',
-    'Welcome to Jumble!': 'Welcome to Jumble!',
+    'Welcome to Marked!': 'Welcome to Marked!',
     'Your feed is empty because you are not following anyone yet. Start by exploring interesting content and following users you like!':
       'Your feed is empty because you are not following anyone yet. Start by exploring interesting content and following users you like!',
     'Search Users': 'Search Users',
