@@ -11,7 +11,7 @@ Based on [Jumble](https://github.com/CodyTseng/jumble) by [@CodyTseng](https://g
 git clone https://github.com/project-bitmark/marked.git
 
 # Go into the repository
-cd social
+cd marked
 
 # Install dependencies
 npm install
@@ -27,7 +27,7 @@ npm run dev
 git clone https://github.com/project-bitmark/marked.git
 
 # Go into the repository
-cd social
+cd marked
 
 # Run the docker compose
 docker compose up --build -d
