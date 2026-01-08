@@ -186,12 +186,12 @@ function WelcomeGuide() {
       <div className="space-y-2">
         <div className="flex items-center w-full justify-center gap-2">
           <Sparkles className="text-yellow-400" />
-          <h2 className="text-2xl font-bold">{t('Welcome to Jumble')}</h2>
+          <h2 className="text-2xl font-bold">{t('Welcome to Marked')}</h2>
           <Sparkles className="text-yellow-400" />
         </div>
         <p className="text-muted-foreground max-w-md">
           {t(
-            'Jumble is a client focused on browsing relays. Get started by exploring interesting relays or login to view your following feed.'
+            'Marked is a Bitmark social client focused on browsing relays. Get started by exploring interesting relays or login to view your following feed.'
           )}
         </p>
       </div>

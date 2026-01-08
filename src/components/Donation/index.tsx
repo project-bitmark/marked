@@ -14,9 +14,9 @@ export default function Donation({ className }: { className?: string }) {
 
   return (
     <div className={cn('p-4 border rounded-lg space-y-4', className)}>
-      <div className="text-center font-semibold">{t('Enjoying Jumble?')}</div>
+      <div className="text-center font-semibold">{t('Enjoying Marked?')}</div>
       <div className="text-center text-muted-foreground">
-        {t('Your donation helps me maintain Jumble and make it better! 😊')}
+        {t('Your donation helps support Marked development! 😊')}
       </div>
       <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
         {[

@@ -46,7 +46,7 @@ export default function FollowingFeed() {
     return (
       <div className="flex flex-col items-center justify-center min-h-[60vh] px-6 text-center">
         <UserPlus size={64} className="text-muted-foreground mb-4" strokeWidth={1.5} />
-        <h2 className="text-2xl font-semibold mb-2">{t('Welcome to Jumble!')}</h2>
+        <h2 className="text-2xl font-semibold mb-2">{t('Welcome to Marked!')}</h2>
         <p className="text-muted-foreground mb-6 max-w-md">
           {t(
             'Your feed is empty because you are not following anyone yet. Start by exploring interesting content and following users you like!'
